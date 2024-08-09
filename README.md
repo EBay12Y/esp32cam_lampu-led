@@ -74,3 +74,7 @@ The loop() function continuously checks the state of the buttons and updates the
 ### Conclusion
 
 This project demonstrates basic digital input and output operations using Arduino. It covers how to read button states, control LEDs, and implement debouncing and long press detection. This can be a foundation for more complex projects involving multiple inputs and outputs.
+
+#### Video Tutorial
+
+[![ESP32 LED Tutorial](https://img.youtube.com/vi/mEQv_72P6Zc/0.jpg)](https://youtu.be/mEQv_72P6Zc "Click to Watch!")
